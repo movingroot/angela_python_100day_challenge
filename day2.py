@@ -5,4 +5,4 @@
 bill = format(float(input("Please give us receipt.\n")),".2f")
 forEach = format((float(bill) / 5) * 1.12,".2f") 
 
-print(f"Each of you should pay ${forEach}")
+print(f"Each of you should pay ${forEach}") 
